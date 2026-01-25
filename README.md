@@ -1,0 +1,1 @@
+This HTML file is a fully functional e-commerce template named ShopHub. It includes a modern UI with product listings, categories, cart, orders, authentication, and payment modals. Features responsive design, search, filters, and interactive shopping flow for a complete online store experience.
